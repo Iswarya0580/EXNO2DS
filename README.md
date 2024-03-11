@@ -23,7 +23,23 @@ STEP 7: Use cross tabulation method to quantitatively analyze the relationship b
 STEP 8: Use heatmap method of representation to show relationships between two variables, one plotted on each axis.
 
 ## CODING AND OUTPUT
-        <<INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS>>
+![WhatsApp Image 2024-03-11 at 10 40 33 AM](https://github.com/Iswarya0580/EXNO2DS/assets/149989171/c73b00e7-ab14-46e5-9027-303e849d5ac2)
+![WhatsApp Image 2024-03-11 at 10 40 33 AM](https://github.com/Iswarya0580/EXNO2DS/assets/149989171/6d1f1d7b-b51f-407a-a77c-397ad22b5a7d)
+![WhatsApp Image 2024-03-11 at 10 40 33 AM](https://github.com/Iswarya0580/EXNO2DS/assets/149989171/ed4bc73b-388c-4eda-b441-7b6f80598b46)
+![WhatsApp Image 2024-03-11 at 10 40 33 AM](https://github.com/Iswarya0580/EXNO2DS/assets/149989171/acb3ef24-576e-44a3-af3b-18c4d08afe37)
+![WhatsApp Image 2024-03-11 at 10 40 33 AM](https://github.com/Iswarya0580/EXNO2DS/assets/149989171/c9d4ecf4-d98e-46ca-a06d-a6eda00548f1)
+![WhatsApp Image 2024-03-11 at 10 40 32 AM](https://github.com/Iswarya0580/EXNO2DS/assets/149989171/70f0b698-b657-4ef5-86d5-1b67f85b317f)
+![WhatsApp Image 2024-03-11 at 10 40 32 AM (1)](https://github.com/Iswarya0580/EXNO2DS/assets/149989171/b5b18413-c0f6-4eb0-b899-78b536287c86)
+![WhatsApp Image 2024-03-11 at 10 40 29 AM](https://github.com/Iswarya0580/EXNO2DS/assets/149989171/dc2530aa-6833-4abf-a02d-b0fd952ad360)
+![WhatsApp Image 2024-03-11 at 11 25 09 AM](https://github.com/Iswarya0580/EXNO2DS/assets/149989171/cc2f04f1-62e7-44e1-afed-bfc00db0a231)
+![WhatsApp Image 2024-03-11 at 11 25 11 AM](https://github.com/Iswarya0580/EXNO2DS/assets/149989171/5c58da16-a182-46fd-908a-183c7acd0bfd)
+![WhatsApp Image 2024-03-11 at 10 40 29 AM (1)](https://github.com/Iswarya0580/EXNO2DS/assets/149989171/ec6300ff-3435-4511-b58f-9947bcf97952)
+![WhatsApp Image 2024-03-11 at 10 40 32 AM (2)](https://github.com/Iswarya0580/EXNO2DS/assets/149989171/96c0c8cb-bdb3-4b11-9d45-99c1e052c3b2)
+![WhatsApp Image 2024-03-11 at 10 40 30 AM (2)](https://github.com/Iswarya0580/EXNO2DS/assets/149989171/3cea6b9d-30ae-450d-a1e2-89489b2eeef8)
+![WhatsApp Image 2024-03-11 at 10 40 29 AM (2)](https://github.com/Iswarya0580/EXNO2DS/assets/149989171/3024d3d8-2e35-4de7-81c8-19e2056025a3)
+![WhatsApp Image 2024-03-11 at 10 40 28 AM](https://github.com/Iswarya0580/EXNO2DS/assets/149989171/17bf71d5-5d72-40da-aa05-164d3c6526b2)
+
+
 
 # RESULT
         <<INCLUDE YOUR RESULT HERE>>
