@@ -1,4 +1,6 @@
 # EX NO:2 DS
+# Name:Iswarya P
+# Reg no:212223230082
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
       
